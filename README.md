@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./avatar.svg" width="160" height="160" alt="Ai Tam animated avatar"/>
+</p>
+
 <h1 align="center">Hi, I'm Ai Tam 👋</h1>
 <h3 align="center">Software Developer · ReactJS · Java · Spring Boot</h3>
 
