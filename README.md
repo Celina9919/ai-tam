@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./avatar.svg" width="160" height="160" alt="Ai Tam animated avatar"/>
+  <img src="./avatar.svg" width="180" height="180" alt="Ai Tam animated avatar"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Celina9919.png" width="130" style="border-radius:50%" alt="Ai Tam"/>
 </p>
 
 <h1 align="center">Hi, I'm Ai Tam 👋</h1>
