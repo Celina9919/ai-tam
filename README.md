@@ -1,20 +1,22 @@
 
 <p align="center">
-  <img src="assets/aitamavatar-cropped.gif" alt="Ai Tam"/>
+  <img src="assets/aitamavatar-cropped.gif" 
+  style="border-radius:8%"
+  alt="Ai Tam"/>
 </p>
 
 <h1 align="center">Hi, I'm Ai Tam 👋</h1>
 <h3 align="center">Software Developer · ReactJS · Java · Spring Boot</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aitam-vo" target="_blank">
+  <a href="https://www.linkedin.com/in/p-a-tam-v-909b55141" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aitam.workfr@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Celina9919" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website"/>
   </a>
 </p>
 
